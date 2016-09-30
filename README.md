@@ -1,2 +1,4 @@
 # hello-world
-new repository
+I like asian food!
+
+Adobo, sinigang, tapa, dinuguan atbp...
